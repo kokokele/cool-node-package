@@ -7,18 +7,25 @@
 - nvm
 - 使用Sinopia搭建私有的npm仓库
 
+## 命令行
+- chalk和colors：颜色输出。
+- ora ：loading
+- commander: 参数检测
+- inquirer：问题提示
+- shelljs
+
 ## debug
 - nodejs log https://github.com/klaussinani/signale
 - nodejs dump data https://github.com/zeeshanu/dumper.js
 - 检测网页状态切换 https://github.com/GoogleChromeLabs/page-lifecycle
-
 
 ## 图像处理
 - nodejs处理图像 https://github.com/lovell/sharp?utm_source=gold_browser_extension
 - phaser h5游戏引擎  http://phaser.io/download/stable
 - 动画库-爆炸 http://mojs.io/
 
-
+## 代码加速
+- 利用gpu加速 https://github.com/gpujs/gpu.js#table-of-contents
 
 ## 网络工具
 - http库 https://www.npmjs.com/package/superagent
