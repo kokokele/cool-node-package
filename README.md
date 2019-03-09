@@ -6,6 +6,8 @@
 - node有一个模块叫n（这名字可够短的。。。），是专门用来管理node.js的版本的。
 - nvm
 - 使用Sinopia搭建私有的npm仓库
+- archiver: zip打包
+- winston：日志工具  https://github.com/winstonjs/winston
 
 ## 命令行
 - chalk和colors：颜色输出。
